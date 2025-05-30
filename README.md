@@ -676,6 +676,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://vuldb.com/?actor" target="_blank">VulDB CTI</a>
+        </td>
+        <td>
+            VulDB is a vulnerability database which associates actor activities and attack details with vulnerabilities. The predictive approach helps to determine emerging research and attack activities by malicious actors.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
