@@ -420,13 +420,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
     </tr>
     <tr>
-        <td><a href="https://blog.netlab.360.com/tag/english/">Netlab OpenData Project</a>
-      </td>
-      <td>
-            The Netlab OpenData project was presented to the public first at ISC' 2016 on August 16, 2016. We currently provide multiple data feeds, including DGA, EK, MalCon, Mirai C2, Mirai-Scanner, Hajime-Scanner and DRDoS Reflector.
-        </td>
-    </tr>
-    <tr>
         <td>
             <a href="http://www.nothink.org">NoThink!</a>
         </td>
@@ -966,7 +959,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://ocsf.io/" target="_blank">Open Cybersecurity Schema Framework (OCSF)</a>
         </td>
         <td>
-            The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema. The goal is to provide an open standard, adopted in any environment, application, or solution, while complementing existing security standards and processes.
+            The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema. Vendors and other data producers can adopt and extend the schema for their specific domains. Data engineers can map differing schemas to help security teams simplify data ingestion and normalization, so that data scientists and analysts can work with a common language for threat detection and investigation. The goal is to provide an open standard, adopted in any environment, application, or solution, while complementing existing security standards and processes.
         </td>
     </tr>
     <tr>
